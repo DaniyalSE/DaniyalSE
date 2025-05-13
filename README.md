@@ -14,10 +14,10 @@
 
 ### 🧠 About Me
 
-- 🔬 Currently training AI models & diving into model architectures
-- 📚 Learning advanced Python libraries (NumPy, Pandas, PyTorch, Scikit-learn)
-- 💬 Ask me about anything AI/ML or creative problem-solving
-- ✉️ Email: **naqvidaiyal598@gmail.com**
+- 🔬 Currently training AI models & diving into model architectures  
+- 📚 Learning advanced Python libraries (NumPy, Pandas, PyTorch, Scikit-learn)  
+- 💬 Ask me about anything AI/ML or creative problem-solving  
+- ✉️ Email: **naqvidaiyal598@gmail.com**  
 - 😄 Fun Fact: *I give better memes than machines*
 
 ---
@@ -26,13 +26,13 @@
 
 <p align="center">
   <a href="https://twitter.com/naqvidaniyal598" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/naqvidaniyal598?logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/syeddaniyalnaqvi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/daniyal_naqvi6" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@daniyal_naqvi6-purple?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
